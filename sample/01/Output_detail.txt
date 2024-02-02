@@ -1,0 +1,62 @@
+[DroneA-200]
+Trip #1
+[LocationI-70], [LocationJ-50], [LocationM-50], [LocationN-30]
+
+
+[DroneB-250]
+Trip #1
+[LocationA-200]
+Trip #2
+[LocationB-150], [LocationC-50]
+Trip #3
+[LocationD-150], [LocationE-100]
+Trip #4
+[LocationF-200], [LocationG-50]
+Trip #5
+[LocationH-80], [LocationK-30], [LocationL-20], [LocationO-20], [LocationP-90]
+
+[DroneC]
+
+[DroneB], [250]
+[DroneA], [200]
+[DroneC], [100]
+
+[DroneB], [250]
+[LocationA], [200] #1
+[DroneA], [200]
+[DroneC], [100]
+
+[DroneB], [250]
+[LocationB], [150]
+[LocationC], [50] #2
+[DroneA], [200]
+[DroneC], [100]
+
+[DroneB], [250]
+[LocationD], [150]
+[LocationE], [100] #3
+[DroneA], [200]
+[DroneC], [100]
+
+[DroneB], [250]
+[LocationF], [200]
+[LocationG], [50] #4
+[DroneA], [200]
+[DroneC], [100]
+
+[DroneB], [250]
+[LocationH], [80]
+[LocationI], [70]
+[LocationJ], [50]
+[LocationK], [30]
+[LocationL], [20] #5
+[DroneA], [200]
+[DroneC], [100]
+
+[DroneB], [250]
+[LocationM], [50]
+[LocationN], [30]
+[LocationO], [20]
+[LocationP], [90] #6
+[DroneA], [200]
+[DroneC], [100]
