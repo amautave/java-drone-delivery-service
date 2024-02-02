@@ -62,3 +62,6 @@ For this solution, the following tools were used:
   - Build #IU-233.13135.103, built on December 20, 2023
 - openjdk-21 (Oracle OpenJDK version 21)
 
+### Output
+
+***Note***: The output also includes weights for better readability.
