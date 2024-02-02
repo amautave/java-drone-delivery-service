@@ -17,13 +17,16 @@ drone is constant and does not vary between drones. The maximum number of drones
 squad is 100, and there is no maximum number of deliveries which are required.
 
 ## Given Input
+```
 Line 1: [Drone #1 Name], [#1 Maximum Weight], [Drone #2 Name], [#2 Maximum Weight], etc.
 Line 2: [Location #1 Name], [Location #1 Package Weight]
 Line 3: [Location #2 Name], [Location #2 Package Weight]
 Line 4: [Location #3 Name], [Location #3 Package Weight]
 Etc.
+```
 
 ## Expected Output
+```
 [Drone #1 Name]
 Trip #1
 [Location #2 Name], [Location #3 Name]
@@ -34,6 +37,7 @@ Trip #1
 [Location #4 Name], [Location #7 Name]
 Trip #2
 [Location #5 Name], [Location #6 Name]
+```
 
 ## Solution
 
@@ -57,4 +61,4 @@ For this solution, the following tools were used:
 - IntelliJ IDEA 2023.3.2 (Ultimate Edition)
   - Build #IU-233.13135.103, built on December 20, 2023
 - openjdk-21 (Oracle OpenJDK version 21)
-- 
+
